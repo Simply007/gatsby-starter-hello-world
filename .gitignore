@@ -70,3 +70,4 @@ yarn-error.log
 
 # because of heroku
 package-lock.json
+yarn.lock
